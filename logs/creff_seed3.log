@@ -1,0 +1,209 @@
+Files already downloaded and verified
+Files already downloaded and verified
+------------------test_imbalance_F:0.02
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[5000, 3237, 2096, 1357, 878, 568, 368, 238, 154, 100]
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[1000, 647, 419, 271, 175, 113, 73, 47, 30, 20]
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[1000, 647, 419, 271, 175, 113, 73, 47, 30, 20]
+Files already downloaded and verified
+------------------test_imbalance_F:0.04
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[5000, 3496, 2445, 1709, 1195, 836, 584, 408, 285, 200]
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[1000, 699, 489, 341, 239, 167, 116, 81, 57, 40]
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[1000, 699, 489, 341, 239, 167, 116, 81, 57, 40]
+Files already downloaded and verified
+------------------test_imbalance_F:0.1
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[5000, 3871, 2997, 2320, 1796, 1391, 1077, 834, 645, 500]
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[1000, 774, 599, 464, 359, 278, 215, 166, 129, 100]
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[1000, 774, 599, 464, 359, 278, 215, 166, 129, 100]
+Files already downloaded and verified
+------------------test_imbalance_F:0.2
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[5000, 4181, 3496, 2924, 2445, 2044, 1709, 1429, 1195, 1000]
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[1000, 836, 699, 584, 489, 408, 341, 285, 239, 200]
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[1000, 836, 699, 584, 489, 408, 341, 285, 239, 200]
+Files already downloaded and verified
+------------------test_imbalance_F:0.5
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[5000, 4629, 4286, 3968, 3674, 3401, 3149, 2916, 2700, 2500]
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[1000, 925, 857, 793, 734, 680, 629, 583, 540, 500]
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[1000, 925, 857, 793, 734, 680, 629, 583, 540, 500]
+Files already downloaded and verified
+------------------test_imbalance_F:1
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[5000, 5000, 5000, 5000, 5000, 5000, 5000, 5000, 5000, 5000]
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]
+Files already downloaded and verified
+------------------test_imbalance_F:0.5
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[2500, 2700, 2916, 3149, 3401, 3674, 3968, 4286, 4629, 5000]
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[500, 540, 583, 629, 680, 734, 793, 857, 925, 1000]
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[500, 540, 583, 629, 680, 734, 793, 857, 925, 1000]
+Files already downloaded and verified
+------------------test_imbalance_F:0.2
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[1000, 1195, 1429, 1709, 2044, 2445, 2924, 3496, 4181, 5000]
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[200, 239, 285, 341, 408, 489, 584, 699, 836, 1000]
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[200, 239, 285, 341, 408, 489, 584, 699, 836, 1000]
+Files already downloaded and verified
+------------------test_imbalance_F:0.1
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[500, 645, 834, 1077, 1391, 1796, 2320, 2997, 3871, 5000]
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[100, 129, 166, 215, 278, 359, 464, 599, 774, 1000]
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[100, 129, 166, 215, 278, 359, 464, 599, 774, 1000]
+Files already downloaded and verified
+------------------test_imbalance_F:0.04
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[200, 285, 408, 584, 836, 1195, 1709, 2445, 3496, 5000]
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[40, 57, 81, 116, 167, 239, 341, 489, 699, 1000]
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[40, 57, 81, 116, 167, 239, 341, 489, 699, 1000]
+Files already downloaded and verified
+------------------test_imbalance_F:0.02
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[100, 154, 238, 368, 568, 878, 1357, 2096, 3237, 5000]
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[20, 30, 47, 73, 113, 175, 271, 419, 647, 1000]
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[20, 30, 47, 73, 113, 175, 271, 419, 647, 1000]
+img_num_class
+[5000, 3237, 2096, 1357, 878, 568, 368, 238, 154, 100]
+All num_data_train
+13996
+0: [209, 274, 61, 2, 0, 0, 150, 2, 0, 2]
+1: [259, 441, 0, 0, 0, 0, 0, 0, 0, 0]
+2: [138, 127, 217, 21, 154, 2, 5, 16, 20, 0]
+3: [201, 349, 8, 5, 20, 50, 1, 13, 23, 30]
+4: [251, 240, 21, 188, 0, 0, 0, 0, 0, 0]
+5: [158, 49, 48, 379, 14, 33, 17, 2, 0, 0]
+/media/cgy/disk1/gtafl-github/main.py:49: DeprecationWarning: an integer is required (got type numpy.float64).  Implicit conversion to integers using __int__ is deprecated, and may be removed in a future version of Python.
+  self.label_syn_uniform = torch.tensor([np.ones(self.num_of_feature) * i for i in range(args.num_classes)], dtype=torch.long,
+/media/cgy/disk1/gtafl-github/main.py:49: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at  /opt/conda/conda-bld/pytorch_1646756402876/work/torch/csrc/utils/tensor_new.cpp:210.)
+  self.label_syn_uniform = torch.tensor([np.ones(self.num_of_feature) * i for i in range(args.num_classes)], dtype=torch.long,
+6: [353, 0, 347, 0, 0, 0, 0, 0, 0, 0]
+7: [227, 15, 186, 32, 97, 143, 0, 0, 0, 0]
+8: [613, 16, 7, 9, 0, 17, 4, 19, 15, 0]
+9: [115, 111, 152, 27, 141, 47, 5, 66, 18, 18]
+10: [577, 32, 91, 0, 0, 0, 0, 0, 0, 0]
+11: [105, 319, 276, 0, 0, 0, 0, 0, 0, 0]
+12: [0, 478, 18, 11, 89, 104, 0, 0, 0, 0]
+13: [135, 216, 165, 132, 52, 0, 0, 0, 0, 0]
+14: [152, 171, 32, 0, 231, 64, 43, 0, 3, 4]
+15: [185, 67, 149, 87, 36, 45, 76, 25, 21, 9]
+16: [551, 28, 3, 2, 1, 42, 60, 1, 10, 1]
+17: [585, 6, 76, 0, 0, 0, 4, 28, 0, 0]
+18: [98, 75, 146, 168, 43, 21, 3, 65, 44, 36]
+19: [88, 223, 93, 294, 0, 0, 0, 1, 0, 0]
+Files already downloaded and verified
+------------------test_imbalance_F:0.02
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[100, 154, 238, 368, 568, 878, 1357, 2096, 3237, 5000]
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[20, 30, 47, 73, 113, 175, 271, 419, 647, 1000]
+Files already downloaded and verified
+get_img_num_per_clas:exp
+------------------------------------测试集class number------------------------------------
+[20, 30, 47, 73, 113, 175, 271, 419, 647, 1000]
+server-training:   0%|          | 0/200 [00:00<?, ?it/s]/home/cgy/anaconda3/envs/exFL/lib/python3.9/site-packages/torch/nn/functional.py:4255: UserWarning: Default grid_sample and affine_grid behavior has changed to align_corners=False since 1.3.0. Please specify align_corners=True if the old behavior is desired. See the documentation of grid_sample for details.
+  warnings.warn(
+/home/cgy/anaconda3/envs/exFL/lib/python3.9/site-packages/torch/nn/functional.py:4193: UserWarning: Default grid_sample and affine_grid behavior has changed to align_corners=False since 1.3.0. Please specify align_corners=True if the old behavior is desired. See the documentation of grid_sample for details.
+  warnings.warn(
+server-training:   0%|          | 1/200 [00:22<1:15:02, 22.63s/it]server-training:   1%|          | 2/200 [00:45<1:16:05, 23.06s/it]server-training:   2%|▏         | 3/200 [01:10<1:17:33, 23.62s/it]server-training:   2%|▏         | 4/200 [01:32<1:15:37, 23.15s/it]server-training:   2%|▎         | 5/200 [01:56<1:15:40, 23.29s/it]server-training:   3%|▎         | 6/200 [02:20<1:16:06, 23.54s/it]server-training:   4%|▎         | 7/200 [02:43<1:15:26, 23.45s/it]server-training:   4%|▍         | 8/200 [03:06<1:14:48, 23.38s/it]server-training:   4%|▍         | 9/200 [03:30<1:14:52, 23.52s/it]server-training:   5%|▌         | 10/200 [03:55<1:16:05, 24.03s/it]server-training:   6%|▌         | 11/200 [04:18<1:14:55, 23.78s/it]server-training:   6%|▌         | 12/200 [04:42<1:14:34, 23.80s/it]server-training:   6%|▋         | 13/200 [05:06<1:13:44, 23.66s/it]server-training:   7%|▋         | 14/200 [05:29<1:13:07, 23.59s/it]server-training:   8%|▊         | 15/200 [05:52<1:11:56, 23.33s/it]server-training:   8%|▊         | 16/200 [06:15<1:11:52, 23.44s/it]server-training:   8%|▊         | 17/200 [06:40<1:12:06, 23.64s/it]server-training:   9%|▉         | 18/200 [07:02<1:10:45, 23.33s/it]server-training:  10%|▉         | 19/200 [07:26<1:10:29, 23.37s/it]server-training:  10%|█         | 20/200 [07:52<1:12:24, 24.14s/it]server-training:  10%|█         | 21/200 [08:15<1:11:16, 23.89s/it]server-training:  11%|█         | 22/200 [08:38<1:09:49, 23.54s/it]server-training:  12%|█▏        | 23/200 [09:02<1:09:49, 23.67s/it]server-training:  12%|█▏        | 24/200 [09:25<1:09:25, 23.67s/it]server-training:  12%|█▎        | 25/200 [09:49<1:08:49, 23.60s/it]server-training:  13%|█▎        | 26/200 [10:13<1:08:50, 23.74s/it]server-training:  14%|█▎        | 27/200 [10:38<1:09:32, 24.12s/it]server-training:  14%|█▍        | 28/200 [11:03<1:10:08, 24.47s/it]server-training:  14%|█▍        | 29/200 [11:25<1:07:58, 23.85s/it]server-training:  15%|█▌        | 30/200 [11:49<1:07:24, 23.79s/it]server-training:  16%|█▌        | 31/200 [12:14<1:07:45, 24.06s/it]server-training:  16%|█▌        | 32/200 [12:38<1:07:15, 24.02s/it]server-training:  16%|█▋        | 33/200 [13:00<1:05:24, 23.50s/it]server-training:  17%|█▋        | 34/200 [13:24<1:05:04, 23.52s/it]server-training:  18%|█▊        | 35/200 [13:48<1:05:03, 23.66s/it]server-training:  18%|█▊        | 36/200 [14:11<1:04:30, 23.60s/it]server-training:  18%|█▊        | 37/200 [14:35<1:04:17, 23.67s/it]server-training:  19%|█▉        | 38/200 [14:59<1:04:38, 23.94s/it]server-training:  20%|█▉        | 39/200 [15:22<1:03:13, 23.56s/it]server-training:  20%|██        | 40/200 [15:45<1:02:01, 23.26s/it]server-training:  20%|██        | 41/200 [16:08<1:01:59, 23.39s/it]server-training:  21%|██        | 42/200 [16:33<1:02:47, 23.84s/it]server-training:  22%|██▏       | 43/200 [16:56<1:01:31, 23.51s/it]server-training:  22%|██▏       | 44/200 [17:19<1:00:37, 23.32s/it]server-training:  22%|██▎       | 45/200 [17:44<1:01:16, 23.72s/it]server-training:  23%|██▎       | 46/200 [18:07<1:00:27, 23.56s/it]server-training:  24%|██▎       | 47/200 [18:29<59:15, 23.24s/it]  server-training:  24%|██▍       | 48/200 [18:53<59:38, 23.54s/it]server-training:  24%|██▍       | 49/200 [19:18<1:00:10, 23.91s/it]server-training:  25%|██▌       | 50/200 [19:41<58:58, 23.59s/it]  server-training:  26%|██▌       | 51/200 [20:05<58:33, 23.58s/it]server-training:  26%|██▌       | 52/200 [20:28<58:21, 23.66s/it]server-training:  26%|██▋       | 53/200 [20:52<58:10, 23.75s/it]server-training:  27%|██▋       | 54/200 [21:15<57:00, 23.43s/it]server-training:  28%|██▊       | 55/200 [21:39<56:51, 23.53s/it]server-training:  28%|██▊       | 56/200 [22:04<57:29, 23.95s/it]server-training:  28%|██▊       | 57/200 [22:27<56:37, 23.76s/it]server-training:  29%|██▉       | 58/200 [22:50<55:54, 23.63s/it]server-training:  30%|██▉       | 59/200 [23:15<56:09, 23.90s/it]server-training:  30%|███       | 60/200 [23:37<54:47, 23.48s/it]server-training:  30%|███       | 61/200 [24:01<54:21, 23.47s/it]server-training:  31%|███       | 62/200 [24:24<53:52, 23.43s/it]server-training:  32%|███▏      | 63/200 [24:48<53:53, 23.60s/it]server-training:  32%|███▏      | 64/200 [25:11<52:52, 23.33s/it]server-training:  32%|███▎      | 65/200 [25:34<52:21, 23.27s/it]server-training:  33%|███▎      | 66/200 [25:59<52:45, 23.62s/it]server-training:  34%|███▎      | 67/200 [26:22<52:27, 23.67s/it]server-training:  34%|███▍      | 68/200 [26:45<51:44, 23.52s/it]server-training:  34%|███▍      | 69/200 [27:09<51:28, 23.58s/it]server-training:  35%|███▌      | 70/200 [27:33<51:28, 23.75s/it]server-training:  36%|███▌      | 71/200 [27:56<50:03, 23.28s/it]server-training:  36%|███▌      | 72/200 [28:19<49:38, 23.27s/it]server-training:  36%|███▋      | 73/200 [28:43<49:54, 23.58s/it]server-training:  37%|███▋      | 74/200 [29:06<49:04, 23.37s/it]server-training:  38%|███▊      | 75/200 [29:28<48:01, 23.05s/it]server-training:  38%|███▊      | 76/200 [29:53<48:34, 23.50s/it]server-training:  38%|███▊      | 77/200 [30:18<48:58, 23.89s/it]server-training:  39%|███▉      | 78/200 [30:40<47:34, 23.39s/it]server-training:  40%|███▉      | 79/200 [31:05<48:01, 23.81s/it]server-training:  40%|████      | 80/200 [31:29<48:04, 24.04s/it]server-training:  40%|████      | 81/200 [31:53<47:17, 23.84s/it]server-training:  41%|████      | 82/200 [32:15<46:15, 23.52s/it]server-training:  42%|████▏     | 83/200 [32:39<46:06, 23.65s/it]server-training:  42%|████▏     | 84/200 [33:03<45:43, 23.65s/it]server-training:  42%|████▎     | 85/200 [33:25<44:37, 23.29s/it]server-training:  43%|████▎     | 86/200 [33:49<44:37, 23.49s/it]server-training:  44%|████▎     | 87/200 [34:14<44:41, 23.73s/it]server-training:  44%|████▍     | 88/200 [34:36<43:36, 23.36s/it]server-training:  44%|████▍     | 89/200 [34:59<43:02, 23.26s/it]server-training:  45%|████▌     | 90/200 [35:22<42:33, 23.21s/it]server-training:  46%|████▌     | 91/200 [35:46<42:23, 23.33s/it]server-training:  46%|████▌     | 92/200 [36:09<42:04, 23.38s/it]server-training:  46%|████▋     | 93/200 [36:34<42:14, 23.69s/it]server-training:  47%|████▋     | 94/200 [36:58<42:01, 23.79s/it]server-training:  48%|████▊     | 95/200 [37:21<41:12, 23.55s/it]server-training:  48%|████▊     | 96/200 [37:45<41:07, 23.73s/it]server-training:  48%|████▊     | 97/200 [38:08<40:28, 23.58s/it]server-training:  49%|████▉     | 98/200 [38:32<39:58, 23.52s/it]server-training:  50%|████▉     | 99/200 [38:55<39:28, 23.45s/it]server-training:  50%|█████     | 100/200 [39:18<38:54, 23.34s/it]server-training:  50%|█████     | 101/200 [39:43<39:16, 23.80s/it]server-training:  51%|█████     | 102/200 [40:06<38:34, 23.62s/it]server-training:  52%|█████▏    | 103/200 [40:30<38:21, 23.72s/it]server-training:  52%|█████▏    | 104/200 [40:54<37:54, 23.70s/it]server-training:  52%|█████▎    | 105/200 [41:17<37:24, 23.63s/it]server-training:  53%|█████▎    | 106/200 [41:40<36:38, 23.38s/it]server-training:  54%|█████▎    | 107/200 [42:03<36:09, 23.33s/it]server-training:  54%|█████▍    | 108/200 [42:27<35:50, 23.37s/it]server-training:  55%|█████▍    | 109/200 [42:50<35:29, 23.40s/it]server-training:  55%|█████▌    | 110/200 [43:14<35:18, 23.54s/it]server-training:  56%|█████▌    | 111/200 [43:39<35:25, 23.88s/it]server-training:  56%|█████▌    | 112/200 [44:03<35:03, 23.90s/it]server-training:  56%|█████▋    | 113/200 [44:26<34:15, 23.63s/it]server-training:  57%|█████▋    | 114/200 [44:50<34:01, 23.74s/it]server-training:  57%|█████▊    | 115/200 [45:14<33:45, 23.83s/it]server-training:  58%|█████▊    | 116/200 [45:37<33:18, 23.79s/it]server-training:  58%|█████▊    | 117/200 [46:00<32:35, 23.56s/it]server-training:  59%|█████▉    | 118/200 [46:25<32:33, 23.82s/it]server-training:  60%|█████▉    | 119/200 [46:48<32:03, 23.74s/it]server-training:  60%|██████    | 120/200 [47:11<31:19, 23.50s/it]server-training:  60%|██████    | 121/200 [47:35<31:02, 23.58s/it]server-training:  61%|██████    | 122/200 [48:00<31:16, 24.05s/it]server-training:  62%|██████▏   | 123/200 [48:23<30:26, 23.72s/it]server-training:  62%|██████▏   | 124/200 [48:46<29:50, 23.56s/it]server-training:  62%|██████▎   | 125/200 [49:10<29:34, 23.66s/it]server-training:  63%|██████▎   | 126/200 [49:34<29:13, 23.70s/it]server-training:  64%|██████▎   | 127/200 [49:57<28:43, 23.60s/it]server-training:  64%|██████▍   | 128/200 [50:21<28:30, 23.76s/it]server-training:  64%|██████▍   | 129/200 [50:46<28:26, 24.04s/it]server-training:  65%|██████▌   | 130/200 [51:10<27:50, 23.86s/it]server-training:  66%|██████▌   | 131/200 [51:32<26:52, 23.37s/it]server-training:  66%|██████▌   | 132/200 [51:55<26:33, 23.43s/it]server-training:  66%|██████▋   | 133/200 [52:19<26:14, 23.49s/it]server-training:  67%|██████▋   | 134/200 [52:42<25:41, 23.36s/it]server-training:  68%|██████▊   | 135/200 [53:05<25:17, 23.34s/it]server-training:  68%|██████▊   | 136/200 [53:30<25:18, 23.73s/it]server-training:  68%|██████▊   | 137/200 [53:53<24:41, 23.51s/it]server-training:  69%|██████▉   | 138/200 [54:16<24:00, 23.24s/it]server-training:  70%|██████▉   | 139/200 [54:40<23:59, 23.60s/it]server-training:  70%|███████   | 140/200 [55:04<23:46, 23.78s/it]server-training:  70%|███████   | 141/200 [55:28<23:16, 23.67s/it]server-training:  71%|███████   | 142/200 [55:52<23:06, 23.91s/it]server-training:  72%|███████▏  | 143/200 [56:18<23:09, 24.38s/it]server-training:  72%|███████▏  | 144/200 [56:41<22:28, 24.08s/it]server-training:  72%|███████▎  | 145/200 [57:04<21:40, 23.64s/it]server-training:  73%|███████▎  | 146/200 [57:28<21:34, 23.97s/it]server-training:  74%|███████▎  | 147/200 [57:52<21:05, 23.88s/it]server-training:  74%|███████▍  | 148/200 [58:14<20:20, 23.47s/it]server-training:  74%|███████▍  | 149/200 [58:38<19:57, 23.48s/it]server-training:  75%|███████▌  | 150/200 [59:02<19:45, 23.70s/it]server-training:  76%|███████▌  | 151/200 [59:27<19:30, 23.90s/it]server-training:  76%|███████▌  | 152/200 [59:49<18:49, 23.53s/it]server-training:  76%|███████▋  | 153/200 [1:00:12<18:20, 23.42s/it]server-training:  77%|███████▋  | 154/200 [1:00:38<18:28, 24.10s/it]server-training:  78%|███████▊  | 155/200 [1:01:01<17:52, 23.83s/it]server-training:  78%|███████▊  | 156/200 [1:01:24<17:11, 23.44s/it]server-training:  78%|███████▊  | 157/200 [1:01:47<16:47, 23.42s/it]server-training:  79%|███████▉  | 158/200 [1:02:10<16:18, 23.29s/it]server-training:  80%|███████▉  | 159/200 [1:02:34<15:59, 23.39s/it]server-training:  80%|████████  | 160/200 [1:02:57<15:28, 23.22s/it]server-training:  80%|████████  | 161/200 [1:03:20<15:04, 23.20s/it]server-training:  81%|████████  | 162/200 [1:03:45<15:00, 23.71s/it]server-training:  82%|████████▏ | 163/200 [1:04:09<14:46, 23.95s/it]server-training:  82%|████████▏ | 164/200 [1:04:31<14:02, 23.41s/it]server-training:  82%|████████▎ | 165/200 [1:05:00<14:37, 25.08s/it]server-training:  83%|████████▎ | 166/200 [1:05:26<14:23, 25.39s/it]server-training:  84%|████████▎ | 167/200 [1:05:51<13:49, 25.14s/it]server-training:  84%|████████▍ | 168/200 [1:06:14<13:05, 24.55s/it]server-training:  84%|████████▍ | 169/200 [1:06:39<12:43, 24.64s/it]server-training:  85%|████████▌ | 170/200 [1:07:04<12:18, 24.62s/it]server-training:  86%|████████▌ | 171/200 [1:07:28<11:49, 24.45s/it]server-training:  86%|████████▌ | 172/200 [1:07:54<11:40, 25.03s/it]server-training:  86%|████████▋ | 173/200 [1:08:20<11:22, 25.27s/it]server-training:  87%|████████▋ | 174/200 [1:08:44<10:46, 24.87s/it]server-training:  88%|████████▊ | 175/200 [1:09:09<10:21, 24.86s/it]server-training:  88%|████████▊ | 176/200 [1:09:34<09:58, 24.94s/it]server-training:  88%|████████▊ | 177/200 [1:09:59<09:34, 25.00s/it]server-training:  89%|████████▉ | 178/200 [1:10:22<08:59, 24.51s/it]server-training:  90%|████████▉ | 179/200 [1:10:48<08:42, 24.89s/it]server-training:  90%|█████████ | 180/200 [1:11:13<08:16, 24.81s/it]server-training:  90%|█████████ | 181/200 [1:11:37<07:47, 24.59s/it]server-training:  91%|█████████ | 182/200 [1:12:02<07:24, 24.72s/it]server-training:  92%|█████████▏| 183/200 [1:12:31<07:23, 26.07s/it]server-training:  92%|█████████▏| 184/200 [1:12:56<06:53, 25.87s/it]server-training:  92%|█████████▎| 185/200 [1:13:19<06:12, 24.80s/it]server-training:  93%|█████████▎| 186/200 [1:13:44<05:47, 24.85s/it]server-training:  94%|█████████▎| 187/200 [1:14:10<05:30, 25.41s/it]server-training:  94%|█████████▍| 188/200 [1:14:35<05:03, 25.28s/it]server-training:  94%|█████████▍| 189/200 [1:14:58<04:29, 24.47s/it]server-training:  95%|█████████▌| 190/200 [1:15:23<04:06, 24.65s/it]server-training:  96%|█████████▌| 191/200 [1:15:48<03:42, 24.69s/it]server-training:  96%|█████████▌| 192/200 [1:16:11<03:14, 24.27s/it]server-training:  96%|█████████▋| 193/200 [1:16:40<02:59, 25.59s/it]server-training:  97%|█████████▋| 194/200 [1:17:05<02:33, 25.57s/it]server-training:  98%|█████████▊| 195/200 [1:17:30<02:06, 25.38s/it]server-training:  98%|█████████▊| 196/200 [1:17:53<01:38, 24.64s/it]server-training:  98%|█████████▊| 197/200 [1:18:18<01:13, 24.61s/it]server-training:  99%|█████████▉| 198/200 [1:18:43<00:49, 24.83s/it]server-training: 100%|█████████▉| 199/200 [1:19:07<00:24, 24.52s/it]server-training: 100%|██████████| 200/200 [1:19:33<00:00, 25.15s/it]server-training: 100%|██████████| 200/200 [1:19:33<00:00, 23.87s/it]
+forward_max_acc:0.717,many:0.6907 medium:0.5596 few:0.7424
+uniform_max_acc:0.7302,many:0.6289 medium:0.5817 few:0.7574
+backward_max_acc:0.7478,many:0.6804 medium:0.5983 few:0.7736
+/media/cgy/disk1/gtafl-github/ensemble.py:42: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  aggregation_softmax = torch.nn.functional.softmax(aggregation_weight) # softmax for normalization
+  0%|          | 0/22 [00:00<?, ?it/s] 41%|████      | 9/22 [00:00<00:00, 85.46it/s]100%|██████████| 22/22 [00:00<00:00, 97.26it/s]
+-------------------------ensemble_accuracy:0.7352 many:0.6598 medium:0.5762 few:0.7629 aggregation_weighttensor([0.2524, 0.3736, 0.3740])

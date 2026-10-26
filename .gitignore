@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+smoke/
+data/
+saved_models/
