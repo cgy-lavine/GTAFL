@@ -3,6 +3,8 @@
 **GTAFL: Addressing Test-Agnostic Long-Tailed Federated Learning in Medical Image**
 
 > 🎉 Accepted by **IEEE Journal of Biomedical and Health Informatics (JBHI)**, 2026.
+>
+> 📄 **Paper**: [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11520633)
 
 ## Overview
 
