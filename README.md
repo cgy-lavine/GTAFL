@@ -4,7 +4,7 @@
 
 > 🎉 Accepted by **IEEE Journal of Biomedical and Health Informatics (JBHI)**, 2026.
 >
-> 📄 **Paper**: [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11520633)
+> 📄 **Paper**: [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11520633) | [arXiv](https://arxiv.org/abs/2611.08021)
 
 ## Overview
 
